@@ -45,11 +45,6 @@ Choose one of the rename modes from the menu (number, alpha, crypt, date, size, 
 - A **progress bar** shows you how far the process is.  
 
 5. **Done!**  
-You will see a success message and can decide what to do next:  
-- Rename again in the same folder  
-- Choose a new folder  
-- Go back to the main menu  
-- Exit the program  
 
 ## Installation
 
